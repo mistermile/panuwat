@@ -1,0 +1,7 @@
+a.firstA {
+	color: red;
+}
+.firstA:hover{
+	color:blue;
+	font-size: 20px;
+}
